@@ -90,5 +90,128 @@ body{
     font-size: 20px;
 }
 
+.right-col-header {
+    margin: 10px;
+}
+
+.rc-heading {
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+  
+.select-option1, .select-option2, .select-option3 {
+    color: black;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    background: rgba(255, 255, 255, 0.35);
+    display:block;
+    width:20px;
+    height:40px;
+    border:2px solid black;
+}
+  
+  /* Remove arrow from select elements in IE */
+::-ms-expand {
+    display: none;
+}
+  
+.select-wrapper1, .select-wrapper2, .select-wrapper3 {
+    margin-bottom: 10px;
+    margin-right: 5px;
+    overflow: hidden;
+    display:inline-block;
+    border: 1px solid #c8c8c8;
+    border-radius: 5px;
+    background:transparent;
+    padding: 0;
+    height: 40px;
+    min-width: 200px;
+    max-width: 300px;
+}
+  
+.select-wrapper1 select, .select-wrapper2 select, .select-wrapper3 select {
+    color: white;
+    -webkit-appearance: none;
+    background: transparent;
+    font-weight: 400;
+    font-size: 12pt;
+    font-family: 'Oswald', Arial, Arial;
+    border-radius: 0;
+    padding: 0 0 0 1.25em;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+  
+.select-icon1, .select-icon2, .select-icon3 {
+    color: white;
+    font-size: 20px;
+    position:relative;
+    bottom:62px;
+    float:right;
+    margin-top: 9px;
+    padding:16px;
+    height:100%;
+    border: 0.5px solid #C8C8C8;
+    border-right:none;
+    pointer-events:none;
+}
+
+
+/* Right Section Main Part */
+/* PPTs & PDFs Section */
+
+.content-div {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.content-div-pptpdf {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
+}
+
+.content-div-heading {
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.unit1, .unit2, .unit3, .unit4, .unit5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 80px;
+    margin: 10px
+}
+
+.content-div-pptpdf p {
+    font-size: 14px;
+    margin: 0px;
+    color: white;
+    text-align: center;
+}
+
+.content-div-pptpdf a {
+    font-size: 40px;
+}
+
+
+
 
 
