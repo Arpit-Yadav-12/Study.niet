@@ -1,0 +1,30 @@
+{
+  "a01": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-I",
+      "sub_code": "BAS0103",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Engineering Physics",
+      "sub_code": "BAS0101A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ]
+}
