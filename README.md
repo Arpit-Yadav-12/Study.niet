@@ -9,7 +9,7 @@ Study.niet is a comprehensive web application designed to simplify access to pre
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Arpit-Yadav-12/Study.niet/blob/master/homepage.png)
 
 
 ## Features
