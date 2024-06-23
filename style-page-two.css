@@ -173,6 +173,7 @@ select {
 .content-div {
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 10px;
     border: 1px solid white;
     border-radius: 5px;
 }

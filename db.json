@@ -1,3706 +1,3437 @@
 {
-    "a01": {
-        "s1": {
-            "name": "Engineering Mathematics-I",
-            "sub-code": "BAS0103",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Engineering Physics",
-            "sub-code": "BAS0101A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Acquiring Business Communication (ABC)",
-            "sub-code": "BASL0101",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Design Thinking-I",
-            "sub-code": "BCSE0103",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Problem Solving using Python",
-            "sub-code": "BCSE0151",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+  "a01": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-I",
+      "subcode": "BAS0103",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "a02": {
-        "s1": {
-            "name": "Engineering Mathematics-II",
-            "sub-code": "BAS0203",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Basic Electrical and Electronics Engineering",
-            "sub-code": "BEC0201",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Advanced Python",
-            "sub-code": "BCSE0252",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Communication for Career Enhancement",
-            "sub-code": "BASL0251",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s2",
+      "name": "Engineering Physics",
+      "subcode": "BAS0101A",
+      "ppts": [
+        "#",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "pyq": []
     },
-    "a03": {
-        "s1": {
-            "name": "Engineering Mathematics-III",
-            "sub-code": "AAS0301A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Discrete Structures",
-            "sub-code": "ACSE0306",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Digital Logic & Circuit Design",
-            "sub-code": "ACSE0304",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Data Structures",
-            "sub-code": "ACSE0301",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Object Oriented Techniques using Java",
-            "sub-code": "ACSE0302",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Computer Organization & Architecture",
-            "sub-code": "ACSE0305",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s3",
+      "name": "Acquiring Business Communication (ABC)",
+      "subcode": "BASL0101",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "a04": {
-        "s1": {
-            "name": "Engineering Mathematics-IV",
-            "sub-code": "AAS0402",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Technical Communication",
-            "sub-code": "AASL0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Microprocessor",
-            "sub-code": "ACSE0405",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Operating Systems",
-            "sub-code": "ACSE0403A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Theory of Automata and Formal Lnaguages",
-            "sub-code": "ACSE0404",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Design and Analysis of Algorithm",
-            "sub-code": "ACSE0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s4",
+      "name": "Design Thinking-I",
+      "subcode": "BCSE0103",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "a05": {
-        "s1": {
-            "name": "Design Thinking-II",
-            "sub-code": "ACSE0503",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Compiler Design",
-            "sub-code": "ACSE0504",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Web Technology",
-            "sub-code": "ACSE0505",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Database Management System",
-            "sub-code": "ACSE0506",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Introduction to Artificial Intelligence",
-            "sub-code": "ACSAI0513",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Machine Learning",
-            "sub-code": "ACSE0515",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Introduction to Cloud Computing",
-            "sub-code": "ACSAI0514",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Cloud Virtualization",
-            "sub-code": "ACSAI0520",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Python Web Development with Django",
-            "sub-code": "ACSE0512",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s10": {
-            "name": "Design Patterns",
-            "sub-code": "ACSE0514",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s5",
+      "name": "Problem Solving using Python",
+      "subcode": "BCSE0151",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "a02": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-II",
+      "subcode": "BAS0203",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "a06": {
-        "s1": {
-            "name": "Advanced Java Programming",
-            "sub-code": "ACSE0601",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Computer Networks",
-            "sub-code": "ACSE0602",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Software Engineering",
-            "sub-code": "ACSE0603",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Deep Learning",
-            "sub-code": "ACSAI0613",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Business Intelligence and Data Visualization",
-            "sub-code": "ACSAI0619",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Cloud Storage Management",
-            "sub-code": "ACSAI0611",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Big Data",
-            "sub-code": "ACSAI0621",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Web Development using MEAN Stack",
-            "sub-code": "ACSE0614",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Full-Stack Web Development using Laravel with Vue.JS",
-            "sub-code": "ACSE0612",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s2",
+      "name": "Basic Electrical and Electronics Engineering",
+      "subcode": "BEC0201",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-
-
-    "b01": {
-        "s1": {
-            "name": "Engineering Mathematics-I",
-            "sub-code": "BASH0103",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Engineering Physics",
-            "sub-code": "BASH0101A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Acquiring Business Communication (ABC)",
-            "sub-code": "BASLH0101",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Design Thinking-I",
-            "sub-code": "BCSEH0103",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Problem Solving using Python",
-            "sub-code": "BCSEH0151",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s3",
+      "name": "Advanced Python",
+      "subcode": "BCSE0252",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "b02": {
-        "s1": {
-            "name": "Engineering Mathematics-II",
-            "sub-code": "BASH0203",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Basic Electrical and Electronics Engineering",
-            "sub-code": "BECH0201",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Advanced Python",
-            "sub-code": "BCSEH0252",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Communication for Career Enhancement",
-            "sub-code": "BASLH0251",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s4",
+      "name": "Communication for Career Enhancement",
+      "subcode": "BASL0251",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "a03": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-III",
+      "subcode": "AAS0301A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "b03": {
-        "s1": {
-            "name": "Engineering Mathematics-III",
-            "sub-code": "AASH0301A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Discrete Structures",
-            "sub-code": "ACSEH0306",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Digital Logic & Circuit Design",
-            "sub-code": "ACSEH0304",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Data Structures",
-            "sub-code": "ACSEH0301",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Object Oriented Techniques using Java",
-            "sub-code": "ACSEH0302",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Computer Organization & Architecture",
-            "sub-code": "ACSEH0305",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s2",
+      "name": "Discrete Structures",
+      "subcode": "ACSE0306",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "b04": {
-        "s1": {
-            "name": "Engineering Mathematics-IV",
-            "sub-code": "AASH0402",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Technical Communication",
-            "sub-code": "AASLH0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Microprocessor",
-            "sub-code": "ACSEH0405",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Operating Systems",
-            "sub-code": "ACSEH0403A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Theory of Automata and Formal Lnaguages",
-            "sub-code": "ACSEH0404",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Design and Analysis of Algorithm",
-            "sub-code": "ACSEH0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s3",
+      "name": "Digital Logic & Circuit Design",
+      "subcode": "ACSE0304",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "b05": {
-        "s1": {
-            "name": "Design Thinking-II",
-            "sub-code": "ACSEH0503",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Compiler Design",
-            "sub-code": "ACSEH0504",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Web Technology",
-            "sub-code": "ACSEH0505",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Database Management System",
-            "sub-code": "ACSEH0506",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Introduction to Artificial Intelligence",
-            "sub-code": "ACSAIH0513",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Machine Learning",
-            "sub-code": "ACSEH0515",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Introduction to Cloud Computing",
-            "sub-code": "ACSAIH0514",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Cloud Virtualization",
-            "sub-code": "ACSAIH0520",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Python Web Development with Django",
-            "sub-code": "ACSEH0512",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s10": {
-            "name": "Design Patterns",
-            "sub-code": "ACSEH0514",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s4",
+      "name": "Data Structures",
+      "subcode": "ACSE0301",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "b06": {
-        "s1": {
-            "name": "Advanced Java Programming",
-            "sub-code": "ACSEH0601",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Computer Networks",
-            "sub-code": "ACSEH0602",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Software Engineering",
-            "sub-code": "ACSEH0603",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Deep Learning",
-            "sub-code": "ACSAIH0613",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Business Intelligence and Data Visualization",
-            "sub-code": "ACSAIH0619",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Cloud Storage Management",
-            "sub-code": "ACSAIH0611",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Big Data",
-            "sub-code": "ACSAIH0621",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Web Development using MEAN Stack",
-            "sub-code": "ACSEH0614",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Full-Stack Web Development using Laravel with Vue.JS",
-            "sub-code": "ACSEH0612",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s5",
+      "name": "Object Oriented Techniques using Java",
+      "subcode": "ACSE0302",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    
-    
-    "c01": {
-        "s1": {
-            "name": "Mathematical Foundations-I",
-            "sub-code": "BAS0104",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Basic Electrical and Electronics Engineering",
-            "sub-code": "BEC0101",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Acquiring Business Communication (ABC)",
-            "sub-code": "BASL0101",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Problem Solving using Python",
-            "sub-code": "BCSE0151",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s6",
+      "name": "Computer Organization & Architecture",
+      "subcode": "ACSE0305",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "a04": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-IV",
+      "subcode": "AAS0402",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "c02": {
-        "s1": {
-            "name": "Mathematical Foundations-II",
-            "sub-code": "BAS0204",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Engineering Physics",
-            "sub-code": "BAS0201A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Design Thinking-I",
-            "sub-code": "BCSE0203",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Advanced Python",
-            "sub-code": "BCSE0252",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s2",
+      "name": "Technical Communication",
+      "subcode": "AASL0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "c03": {
-        "s1": {
-            "name": "Statistics and Probability",
-            "sub-code": "AAS0303",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Discrete Structures",
-            "sub-code": "ACSE0306",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Logic Design and Computer Architecture",
-            "sub-code": "ACSAI0302",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Data Structures and Algorithms Design",
-            "sub-code": "ACSIOT0301",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Object Oriented Techniques using Java",
-            "sub-code": "ACSE0302",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Operating Systems",
-            "sub-code": "ACSCY0301",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s3",
+      "name": "Microprocessor",
+      "subcode": "ACSE0405",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "c04": {
-        "s1": {
-            "name": "Optimization Techniques",
-            "sub-code": "AAS0404",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Technical Communication",
-            "sub-code": "AASL0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Computer Networks and Network Programming",
-            "sub-code": "ACSCY0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Database Management Systems",
-            "sub-code": "ACSAI0402",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Introduction to Artificial Intelligence",
-            "sub-code": "ACSAI0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Theory of Automata & Formal Languages",
-            "sub-code": "ACSE0404",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s4",
+      "name": "Operating Systems",
+      "subcode": "ACSE0403A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    
-    
-    "d01": {
-        "s1": {
-            "name": "Engineering Mathematics-I",
-            "sub-code": "BAS0103",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Engineering Physics",
-            "sub-code": "BAS0101A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Acquiring Business Communication (ABC)",
-            "sub-code": "BASL0101",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Design Thinking-I",
-            "sub-code": "BCSE0103",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Problem Solving using Python",
-            "sub-code": "BCSE0151",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s5",
+      "name": "Theory of Automata and Formal Lnaguages",
+      "subcode": "ACSE0404",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "d02": {
-        "s1": {
-            "name": "Engineering Mathematics-II",
-            "sub-code": "BAS0203",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Basic Electrical and Electronics Engineering",
-            "sub-code": "BEC0201",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Advanced Python",
-            "sub-code": "BCSE0252",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Communication for Career Enhancement",
-            "sub-code": "BASL0251",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s6",
+      "name": "Design and Analysis of Algorithm",
+      "subcode": "ACSE0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "a05": [
+    {
+      "id": "s1",
+      "name": "Design Thinking-II",
+      "subcode": "ACSE0503",
+      "ppts": [
+        "https://drive.google.com/file/d/1QvW9NM2QxYhqb9lTecPUTzbK3p1PCcld/view?usp=drive_link",
+        "#",
+        "https://drive.google.com/file/d/1E6seCUopvv_IuiFSa7sDyiquQyjhJdHk/view?usp=drive_link",
+        "https://drive.google.com/file/d/1N2syar6ywOvBcVwdFvgbWoukokr_VKV0/view?usp=drive_link",
+        "https://drive.google.com/file/d/1DMuCIdQZBsC4OTfNcoo6wLnCbV2xmnmx/view?usp=drive_link"
+      ],
+      "pyq": []
     },
-    "d03": {
-        "s1": {
-            "name": "Engineering Mathematics-III",
-            "sub-code": "AAS0301A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Discrete Structures",
-            "sub-code": "ACSE0306",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Digital Logic & Circuit Design",
-            "sub-code": "ACSE0304",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Data Structures",
-            "sub-code": "ACSE0301",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Object Oriented Techniques using Java",
-            "sub-code": "ACSE0302",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Computer Organization & Architecture",
-            "sub-code": "ACSE0305",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s2",
+      "name": "Compiler Design",
+      "subcode": "ACSE0504",
+      "ppts": [
+        "https://docs.google.com/presentation/d/1vtiz7q58nWg5drenSTC95cX6YYF56peO/edit?usp=drive_link&ouid=103135281586290076750&rtpof=true&sd=true",
+        "https://docs.google.com/presentation/d/1Rnc3Q-R_4U3aB-lxpxko2JFH0PuMum-Y/edit?usp=drive_link&ouid=103135281586290076750&rtpof=true&sd=true",
+        "https://drive.google.com/file/d/1io6-nhchhZZbcqCKv0IP4fEOdwbYwWc2/view?usp=drive_link",
+        "https://drive.google.com/file/d/13Xu1w_plB6EKaV947wuwnm9wnEjmujqJ/view?usp=drive_link",
+        "https://docs.google.com/presentation/d/1cUxpUTcjfd5Vi2wlbfwu1Q_8EYYIUjRz/edit?usp=drive_link&ouid=103135281586290076750&rtpof=true&sd=true"
+      ],
+      "pyq": []
     },
-    "d04": {
-        "s1": {
-            "name": "Engineering Mathematics-IV",
-            "sub-code": "AAS0402",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Technical Communication",
-            "sub-code": "AASL0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Software Engineering",
-            "sub-code": "AIT0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Operating Systems",
-            "sub-code": "ACSE0403A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Theory of Automata and Formal Lnaguages",
-            "sub-code": "ACSE0404",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Database Management Systems",
-            "sub-code": "ACSAI0402",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s3",
+      "name": "Web Technology",
+      "subcode": "ACSE0505",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "d05": {
-        "s1": {
-            "name": "Design Thinking-II",
-            "sub-code": "ACSE0503",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Design and Analysis of Algorithm",
-            "sub-code": "ACSE0501",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Machine Learning",
-            "sub-code": "ACSML0502",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Web Technology",
-            "sub-code": "ACSE0505",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Introduction to Artificial Intelligence",
-            "sub-code": "ACSAI0513",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Image Processing & Pattern Recognition",
-            "sub-code": "ACSE0522",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Introduction to Cloud Computing",
-            "sub-code": "ACSAI0514",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Cloud Virtualization",
-            "sub-code": "ACSAI0520",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Python Web Development with Django",
-            "sub-code": "ACSE0512",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s10": {
-            "name": "Design Patterns",
-            "sub-code": "ACSE0514",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s4",
+      "name": "Database Management System",
+      "subcode": "ACSE0506",
+      "ppts": [
+        "https://drive.google.com/file/d/1h4xVERrHmsgIFwnhCWhtDo78RNik7pXf/view?usp=drive_link",
+        "https://drive.google.com/file/d/1Kj8jyvmCbkfL2r7Gw9rZpPiTqa1noLf-/view?usp=drive_link",
+        "https://drive.google.com/file/d/1s3hwEh4bN_uux0coGXtitpPIeg_-t4Z4/view?usp=drive_link",
+        "https://drive.google.com/file/d/1a9daQo4d3Sg9hiWAIt0SolIpQKT41bSZ/view?usp=drive_link",
+        "https://drive.google.com/file/d/1Js8CVMMsc8RlsbG15raZvtd2qYMXo9_m/view?usp=drive_link"
+      ],
+      "pyq": []
     },
-    "d06": {
-        "s1": {
-            "name": "Advanced Java Programming",
-            "sub-code": "ACSE0601",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Computer Networks",
-            "sub-code": "ACSE0602",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Data Analytics",
-            "sub-code": "ACSDS0603",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Deep Learning",
-            "sub-code": "ACSAI0613",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Business Intelligence and Data Visualization",
-            "sub-code": "ACSAI0619",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Cloud Storage Management",
-            "sub-code": "ACSAI0611",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Big Data",
-            "sub-code": "ACSAI0621",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Web Development using MEAN Stack",
-            "sub-code": "ACSE0614",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Full-Stack Web Development using Laravel with Vue.JS",
-            "sub-code": "ACSE0612",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s5",
+      "name": "Introduction to Artificial Intelligence",
+      "subcode": "ACSAI0513",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    
-    
-    "e01": {
-        "s1": {
-            "name": "Engineering Mathematics-I",
-            "sub-code": "BAS0103",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Engineering Physics",
-            "sub-code": "BAS0101A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Acquiring Business Communication (ABC)",
-            "sub-code": "BASL0101",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Design Thinking-I",
-            "sub-code": "BCSE0103",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Problem Solving using Python",
-            "sub-code": "BCSE0151",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s6",
+      "name": "Machine Learning",
+      "subcode": "ACSE0515",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "e02": {
-        "s1": {
-            "name": "Engineering Mathematics-II",
-            "sub-code": "BAS0203",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Basic Electrical and Electronics Engineering",
-            "sub-code": "BEC0201",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Advanced Python",
-            "sub-code": "BCSE0252",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Communication for Career Enhancement",
-            "sub-code": "BASL0251",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s7",
+      "name": "Introduction to Cloud Computing",
+      "subcode": "ACSAI0514",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "e03": {
-        "s1": {
-            "name": "Engineering Mathematics-III",
-            "sub-code": "AAS0301A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Discrete Structures",
-            "sub-code": "ACSE0306",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Digital Logic & Circuit Design",
-            "sub-code": "ACSE0304",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Data Structures",
-            "sub-code": "ACSE0301",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Introduction to Cloud Computing",
-            "sub-code": "ACSE0305",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Computer Organization & Architecture",
-            "sub-code": "ACSE0305",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s8",
+      "name": "Cloud Virtualization",
+      "subcode": "ACSAI0520",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "e04": {
-        "s1": {
-            "name": "Engineering Mathematics-IV",
-            "sub-code": "AAS0402",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Technical Communication",
-            "sub-code": "AASL0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Cloud Computing Architecture",
-            "sub-code": "ACS0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Operating Systems",
-            "sub-code": "ACSE0403A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Theory of Automata and Formal Lnaguages",
-            "sub-code": "ACSE0404",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Object Oriented Techniques using Java",
-            "sub-code": "ACSE0402",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s9",
+      "name": "Python Web Development with Django",
+      "subcode": "ACSE0512",
+      "ppts": [
+        "https://drive.google.com/file/d/14BS9z6cFu7JPAyLr2aAlt8-Zl9tlSz2Y/view?usp=drive_link",
+        "https://drive.google.com/file/d/1KsvRQPMiwYCLS6OvLssWCtVuOaIcLt3R/view?usp=drive_link",
+        "https://drive.google.com/file/d/1cFoc1P6imaw4fAbPIJuJ8j25fGrmsJfp/view?usp=drive_link",
+        "https://drive.google.com/file/d/143gO6jj-Mluxapc6GmbWBL1cfj7ywo6p/view?usp=drive_link",
+        "https://drive.google.com/file/d/16IMUrZmeHIT5JDF71OaDcf8U-Ydk8sca/view?usp=drive_link"
+      ],
+      "pyq": []
     },
-    "e05": {
-        "s1": {
-            "name": "Design Thinking-II",
-            "sub-code": "ACSE0503",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Design and Analysis of Algorithm",
-            "sub-code": "ACSE0501",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Web Technology",
-            "sub-code": "ACSE0505",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Database Management System",
-            "sub-code": "ACSE0506",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Data Analytics",
-            "sub-code": "ACSAI0512",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Business Intelligence and Data Visualization",
-            "sub-code": "ACSAI0519",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Cloud Storage Management",
-            "sub-code": "ACSAI0511",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Cloud Virtualization",
-            "sub-code": "ACSAI0520",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Python Web Development with Django",
-            "sub-code": "ACSE0512",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s10": {
-            "name": "Design Patterns",
-            "sub-code": "ACSE0514",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s10",
+      "name": "Design Patterns",
+      "subcode": "ACSE0514",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "a06": [
+    {
+      "id": "s1",
+      "name": "Advanced Java Programming",
+      "subcode": "ACSE0601",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "e06": {
-        "s1": {
-            "name": "Machine Learning",
-            "sub-code": "ACSML0601",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Computer Networks",
-            "sub-code": "ACSE0602",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Software Engineering",
-            "sub-code": "ACSE0603",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Programming for Data Analytics",
-            "sub-code": "ACSAI0617",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Social Media Analytics",
-            "sub-code": "ACSAI0622N",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "DevOps on Cloud",
-            "sub-code": "ACSAI0615",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Big Data",
-            "sub-code": "ACSAI0621",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Web Development using MEAN Stack",
-            "sub-code": "ACSE0614",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Advanced Java Programming",
-            "sub-code": "ACSAI0612",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }
+    {
+      "id": "s2",
+      "name": "Computer Networks",
+      "subcode": "ACSE0602",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-
-
-    "f01": {
-        "s1": {
-            "name": "Mathematical Foundations-I",
-            "sub-code": "BAS0104",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Basic Electrical and Electronics Engineering",
-            "sub-code": "BEC0101",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Acquiring Business Communication (ABC)",
-            "sub-code": "BASL0101",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Problem Solving using Python",
-            "sub-code": "BCSE0151",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s3",
+      "name": "Software Engineering",
+      "subcode": "ACSE0603",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "f02": {
-        "s1": {
-            "name": "Mathematical Foundations-II",
-            "sub-code": "BAS0204",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Engineering Physics",
-            "sub-code": "BAS0201A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Design Thinking-I",
-            "sub-code": "BCSE0203",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Advanced Python",
-            "sub-code": "BCSE0252",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s4",
+      "name": "Deep Learning",
+      "subcode": "ACSAI0613",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "f03": {
-        "s1": {
-            "name": "Statistics and Probability",
-            "sub-code": "AAS0303",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Discrete Structures",
-            "sub-code": "ACSE0306",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Logic Design and Computer Architecture",
-            "sub-code": "ACSAI0302",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Data Structures",
-            "sub-code": "ACSE0301",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Object Oriented Techniques using Java",
-            "sub-code": "ACSE0302",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Introduction to Artificial Intelligence",
-            "sub-code": "ACSAI0301",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s5",
+      "name": "Business Intelligence and Data Visualization",
+      "subcode": "ACSAI0619",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "f04": {
-        "s1": {
-            "name": "Optimization and Numerical Techniques",
-            "sub-code": "AAS0404",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Technical Communication",
-            "sub-code": "AASL0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Introduction to Information Security and Cryptography",
-            "sub-code": "ACSAI0403",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Operating Systems",
-            "sub-code": "ACSE0403A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Database Management Systems",
-            "sub-code": "ACSAI0402",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Theory of Automata & Formal Languages",
-            "sub-code": "ACSE0404",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s6",
+      "name": "Cloud Storage Management",
+      "subcode": "ACSAI0611",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "f05": {
-        "s1": {
-            "name": "Design Thinking-II",
-            "sub-code": "ACSE0503",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Design and Analysis of Algorithm",
-            "sub-code": "ACSE0501",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Computer Networks",
-            "sub-code": "ACSE0502",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Web Technology",
-            "sub-code": "ACSE0505",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Data Analytics",
-            "sub-code": "ACSAI0512",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Business Intelligence and Data Visualization",
-            "sub-code": "ACSAI0519",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Mobile Application Development",
-            "sub-code": "ACSAI0515",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Development in Swift Fundamentals",
-            "sub-code": "ACSAI0521",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Python Web Development with Django",
-            "sub-code": "ACSE0512",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s10": {
-            "name": "Design Patterns",
-            "sub-code": "ACSE0514",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s7",
+      "name": "Big Data",
+      "subcode": "ACSAI0621",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "f06": {
-        "s1": {
-            "name": "Blockchain Technology and Application Development",
-            "sub-code": "ACSAI0601",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Machine Learning",
-            "sub-code": "ACSML0601",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Software Engineering",
-            "sub-code": "ACSE0603",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Social Media Analytics",
-            "sub-code": "ACSAI0622N",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Programming for Data Analytics",
-            "sub-code": "ACSAI0617",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Development in Swift Explorations and Data Collection",
-            "sub-code": "ACSAI0614",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Augmented Reality and Virtual Reality",
-            "sub-code": "ACSAI0620",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Web Development using MEAN Stack",
-            "sub-code": "ACSE0614",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Advanced Java Programming",
-            "sub-code": "ACSAI0612",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s8",
+      "name": "Web Development using MEAN Stack",
+      "subcode": "ACSE0614",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-
-
-    "h01": {
-        "s1": {
-            "name": "Mathematical Foundations-I",
-            "sub-code": "BAS0104",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Basic Electrical and Electronics Engineering",
-            "sub-code": "BEC0101",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Acquiring Business Communication (ABC)",
-            "sub-code": "BASL0101",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Problem Solving using Python",
-            "sub-code": "BCSE0151",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s9",
+      "name": "Full-Stack Web Development using Laravel with Vue.JS",
+      "subcode": "ACSE0612",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  
+  "b01": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-I",
+      "subcode": "BASH0103",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "h02": {
-        "s1": {
-            "name": "Mathematical Foundations-II",
-            "sub-code": "BAS0204",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Engineering Physics",
-            "sub-code": "BAS0201A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Design Thinking-I",
-            "sub-code": "BCSE0203",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Advanced Python",
-            "sub-code": "BCSE0252",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s2",
+      "name": "Engineering Physics",
+      "subcode": "BASH0101A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "h03": {
-        "s1": {
-            "name": "Statistics and Probability",
-            "sub-code": "AAS0303",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Discrete Structures",
-            "sub-code": "ACSE0306",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Logic Design and Computer Architecture",
-            "sub-code": "ACSAI0302",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Data Structures",
-            "sub-code": "ACSE0301",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Object Oriented Techniques using Java",
-            "sub-code": "ACSE0302",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Foundation of Data Science",
-            "sub-code": "ACSDS0301N",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s3",
+      "name": "Acquiring Business Communication (ABC)",
+      "subcode": "BASLH0101",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "h04": {
-        "s1": {
-            "name": "Optimization and Numerical Techniques",
-            "sub-code": "AAS0404",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Technical Communication",
-            "sub-code": "AASL0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Introduction to Artificial Intelligence",
-            "sub-code": "ACSAI0401",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Operating Systems",
-            "sub-code": "ACSE0403A",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Database Management Systems",
-            "sub-code": "ACSAI0402",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Theory of Automata & Formal Languages",
-            "sub-code": "ACSE0404",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s4",
+      "name": "Design Thinking-I",
+      "subcode": "BCSEH0103",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "h05": {
-        "s1": {
-            "name": "Design Thinking-II",
-            "sub-code": "ACSE0503",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Design and Analysis of Algorithm",
-            "sub-code": "ACSE0501",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Computer Networks",
-            "sub-code": "ACSE0502",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Machine Learning",
-            "sub-code": "ACSML0501",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Predictive Analytics",
-            "sub-code": "ACSAI0516",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Web Technology",
-            "sub-code": "ACSAI0516",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Mobile Application Development",
-            "sub-code": "ACSAI0515",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Development in Swift Fundamentals",
-            "sub-code": "ACSAI0521",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Python Web Development with Django",
-            "sub-code": "ACSE0512",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s10": {
-            "name": "Design Patterns",
-            "sub-code": "ACSE0514",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
+    {
+      "id": "s5",
+      "name": "Problem Solving using Python",
+      "subcode": "BCSEH0151",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "b02": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-II",
+      "subcode": "BASH0203",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
     },
-    "h06": {
-        "s1": {
-            "name": "Big Data Analytics",
-            "sub-code": "ACSDS0601",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s2": {
-            "name": "Business Intelligence and Data Visualization",
-            "sub-code": "ACSDS0602",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s3": {
-            "name": "Software Engineering",
-            "sub-code": "ACSE0603",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s4": {
-            "name": "Social Media Analytics",
-            "sub-code": "ACSAI0622N",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s5": {
-            "name": "Programming for Data Analytics",
-            "sub-code": "ACSAI0617",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s6": {
-            "name": "Development in Swift Explorations and Data Collection",
-            "sub-code": "ACSAI0614",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s7": {
-            "name": "Augmented Reality and Virtual Reality",
-            "sub-code": "ACSAI0620",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s8": {
-            "name": "Web Development using MEAN Stack",
-            "sub-code": "ACSE0614",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        },
-        "s9": {
-            "name": "Advanced Java Programming",
-            "sub-code": "ACSAI0612",
-            "ppts" : [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pyq" : [
-
-            ]   
-        }    
-    }    
+    {
+      "id": "s2",
+      "name": "Basic Electrical and Electronics Engineering",
+      "subcode": "BECH0201",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Advanced Python",
+      "subcode": "BCSEH0252",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Communication for Career Enhancement",
+      "subcode": "BASLH0251",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "b03": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-III",
+      "subcode": "AASH0301A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Discrete Structures",
+      "subcode": "ACSEH0306",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Digital Logic & Circuit Design",
+      "subcode": "ACSEH0304",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Data Structures",
+      "subcode": "ACSEH0301",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Object Oriented Techniques using Java",
+      "subcode": "ACSEH0302",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Computer Organization & Architecture",
+      "subcode": "ACSEH0305",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "b04": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-IV",
+      "subcode": "AASH0402",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Technical Communication",
+      "subcode": "AASLH0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Microprocessor",
+      "subcode": "ACSEH0405",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Operating Systems",
+      "subcode": "ACSEH0403A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Theory of Automata and Formal Lnaguages",
+      "subcode": "ACSEH0404",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Design and Analysis of Algorithm",
+      "subcode": "ACSEH0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "b05": [
+    {
+      "id": "s1",
+      "name": "Design Thinking-II",
+      "subcode": "ACSEH0503",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Compiler Design",
+      "subcode": "ACSEH0504",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Web Technology",
+      "subcode": "ACSEH0505",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Database Management System",
+      "subcode": "ACSEH0506",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Introduction to Artificial Intelligence",
+      "subcode": "ACSAIH0513",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Machine Learning",
+      "subcode": "ACSEH0515",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s7",
+      "name": "Introduction to Cloud Computing",
+      "subcode": "ACSAIH0514",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s8",
+      "name": "Cloud Virtualization",
+      "subcode": "ACSAIH0520",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s9",
+      "name": "Python Web Development with Django",
+      "subcode": "ACSEH0512",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s10",
+      "name": "Design Patterns",
+      "subcode": "ACSEH0514",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "b06": [
+    {
+      "id": "s1",
+      "name": "Advanced Java Programming",
+      "subcode": "ACSEH0601",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Computer Networks",
+      "subcode": "ACSEH0602",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Software Engineering",
+      "subcode": "ACSEH0603",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Deep Learning",
+      "subcode": "ACSAIH0613",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Business Intelligence and Data Visualization",
+      "subcode": "ACSAIH0619",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Cloud Storage Management",
+      "subcode": "ACSAIH0611",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s7",
+      "name": "Big Data",
+      "subcode": "ACSAIH0621",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s8",
+      "name": "Web Development using MEAN Stack",
+      "subcode": "ACSEH0614",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s9",
+      "name": "Full-Stack Web Development using Laravel with Vue.JS",
+      "subcode": "ACSEH0612",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "c01": [
+    {
+      "id": "s1",
+      "name": "Mathematical Foundations-I",
+      "subcode": "BAS0104",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Basic Electrical and Electronics Engineering",
+      "subcode": "BEC0101",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Acquiring Business Communication (ABC)",
+      "subcode": "BASL0101",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Problem Solving using Python",
+      "subcode": "BCSE0151",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "c02": [
+    {
+      "id": "s1",
+      "name": "Mathematical Foundations-II",
+      "subcode": "BAS0204",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Engineering Physics",
+      "subcode": "BAS0201A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Design Thinking-I",
+      "subcode": "BCSE0203",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Advanced Python",
+      "subcode": "BCSE0252",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "c03": [
+    {
+      "id": "s1",
+      "name": "Statistics and Probability",
+      "subcode": "AAS0303",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Discrete Structures",
+      "subcode": "ACSE0306",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Logic Design and Computer Architecture",
+      "subcode": "ACSAI0302",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Data Structures and Algorithms Design",
+      "subcode": "ACSIOT0301",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Object Oriented Techniques using Java",
+      "subcode": "ACSE0302",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Operating Systems",
+      "subcode": "ACSCY0301",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "c04": [
+    {
+      "id": "s1",
+      "name": "Optimization Techniques",
+      "subcode": "AAS0404",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Technical Communication",
+      "subcode": "AASL0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Computer Networks and Network Programming",
+      "subcode": "ACSCY0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Database Management Systems",
+      "subcode": "ACSAI0402",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Introduction to Artificial Intelligence",
+      "subcode": "ACSAI0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Theory of Automata & Formal Languages",
+      "subcode": "ACSE0404",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "d01": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-I",
+      "subcode": "BAS0103",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Engineering Physics",
+      "subcode": "BAS0101A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Acquiring Business Communication (ABC)",
+      "subcode": "BASL0101",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Design Thinking-I",
+      "subcode": "BCSE0103",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Problem Solving using Python",
+      "subcode": "BCSE0151",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "d02": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-II",
+      "subcode": "BAS0203",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Basic Electrical and Electronics Engineering",
+      "subcode": "BEC0201",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Advanced Python",
+      "subcode": "BCSE0252",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Communication for Career Enhancement",
+      "subcode": "BASL0251",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "d03": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-III",
+      "subcode": "AAS0301A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Discrete Structures",
+      "subcode": "ACSE0306",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+  {
+      "id": "s3",
+      "name": "Digital Logic & Circuit Design",
+      "subcode": "ACSE0304",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Data Structures",
+      "subcode": "ACSE0301",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Object Oriented Techniques using Java",
+      "subcode": "ACSE0302",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Computer Organization & Architecture",
+      "subcode": "ACSE0305",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "d04": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-IV",
+      "subcode": "AAS0402",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Technical Communication",
+      "subcode": "AASL0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+  {
+      "id": "s3",
+      "name": "Software Engineering",
+      "subcode": "AIT0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Operating Systems",
+      "subcode": "ACSE0403A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Theory of Automata and Formal Lnaguages",
+      "subcode": "ACSE0404",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Database Management Systems",
+      "subcode": "ACSAI0402",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "d05": [
+    {
+      "id": "s1",
+      "name": "Design Thinking-II",
+      "subcode": "ACSE0503",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Design and Analysis of Algorithm",
+      "subcode": "ACSE0501",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Machine Learning",
+      "subcode": "ACSML0502",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Web Technology",
+      "subcode": "ACSE0505",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Introduction to Artificial Intelligence",
+      "subcode": "ACSAI0513",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Image Processing & Pattern Recognition",
+      "subcode": "ACSE0522",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s7",
+      "name": "Introduction to Cloud Computing",
+      "subcode": "ACSAI0514",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s8",
+      "name": "Cloud Virtualization",
+      "subcode": "ACSAI0520",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s9",
+      "name": "Python Web Development with Django",
+      "subcode": "ACSE0512",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s10",
+      "name": "Design Patterns",
+      "subcode": "ACSE0514",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "d06": [
+    {
+      "id": "s1",
+      "name": "Advanced Java Programming",
+      "subcode": "ACSE0601",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Computer Networks",
+      "subcode": "ACSE0602",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Data Analytics",
+      "subcode": "ACSDS0603",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Deep Learning",
+      "subcode": "ACSAI0613",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Business Intelligence and Data Visualization",
+      "subcode": "ACSAI0619",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Cloud Storage Management",
+      "subcode": "ACSAI0611",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s7",
+      "name": "Big Data",
+      "subcode": "ACSAI0621",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s8",
+      "name": "Web Development using MEAN Stack",
+      "subcode": "ACSE0614",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s9",
+      "name": "Full-Stack Web Development using Laravel with Vue.JS",
+      "subcode": "ACSE0612",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "e01": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-I",
+      "subcode": "BAS0103",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Engineering Physics",
+      "subcode": "BAS0101A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Acquiring Business Communication (ABC)",
+      "subcode": "BASL0101",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Design Thinking-I",
+      "subcode": "BCSE0103",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Problem Solving using Python",
+      "subcode": "BCSE0151",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "e02": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-II",
+      "subcode": "BAS0203",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Basic Electrical and Electronics Engineering",
+      "subcode": "BEC0201",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Advanced Python",
+      "subcode": "BCSE0252",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Communication for Career Enhancement",
+      "subcode": "BASL0251",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "e03": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-III",
+      "subcode": "AAS0301A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Discrete Structures",
+      "subcode": "ACSE0306",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Digital Logic & Circuit Design",
+      "subcode": "ACSE0304",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Data Structures",
+      "subcode": "ACSE0301",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Introduction to Cloud Computing",
+      "subcode": "ACSE0305",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Computer Organization & Architecture",
+      "subcode": "ACSE0305",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "e04": [
+    {
+      "id": "s1",
+      "name": "Engineering Mathematics-IV",
+      "subcode": "AAS0402",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Technical Communication",
+      "subcode": "AASL0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Cloud Computing Architecture",
+      "subcode": "ACS0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Operating Systems",
+      "subcode": "ACSE0403A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Theory of Automata and Formal Lnaguages",
+      "subcode": "ACSE0404",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Object Oriented Techniques using Java",
+      "subcode": "ACSE0402",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "e05": [
+    {
+      "id": "s1",
+      "name": "Design Thinking-II",
+      "subcode": "ACSE0503",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Design and Analysis of Algorithm",
+      "subcode": "ACSE0501",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Web Technology",
+      "subcode": "ACSE0505",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Database Management System",
+      "subcode": "ACSE0506",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Data Analytics",
+      "subcode": "ACSAI0512",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Business Intelligence and Data Visualization",
+      "subcode": "ACSAI0519",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s7",
+      "name": "Cloud Storage Management",
+      "subcode": "ACSAI0511",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s8",
+      "name": "Cloud Virtualization",
+      "subcode": "ACSAI0520",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s9",
+      "name": "Python Web Development with Django",
+      "subcode": "ACSE0512",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s10",
+      "name": "Design Patterns",
+      "subcode": "ACSE0514",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "e06": [
+    {
+      "id": "s1",
+      "name": "Machine Learning",
+      "subcode": "ACSML0601",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Computer Networks",
+      "subcode": "ACSE0602",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Software Engineering",
+      "subcode": "ACSE0603",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Programming for Data Analytics",
+      "subcode": "ACSAI0617",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Social Media Analytics",
+      "subcode": "ACSAI0622N",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "DevOps on Cloud",
+      "subcode": "ACSAI0615",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s7",
+      "name": "Big Data",
+      "subcode": "ACSAI0621",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s8",
+      "name": "Web Development using MEAN Stack",
+      "subcode": "ACSE0614",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s9",
+      "name": "Advanced Java Programming",
+      "subcode": "ACSAI0612",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "f01": [
+    {
+      "id": "s1",
+      "name": "Mathematical Foundations-I",
+      "subcode": "BAS0104",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Basic Electrical and Electronics Engineering",
+      "subcode": "BEC0101",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Acquiring Business Communication (ABC)",
+      "subcode": "BASL0101",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Problem Solving using Python",
+      "subcode": "BCSE0151",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "f02": [
+    {
+      "id": "s1",
+      "name": "Mathematical Foundations-II",
+      "subcode": "BAS0204",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Engineering Physics",
+      "subcode": "BAS0201A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Design Thinking-I",
+      "subcode": "BCSE0203",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Advanced Python",
+      "subcode": "BCSE0252",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "f03": [
+    {
+      "id": "s1",
+      "name": "Statistics and Probability",
+      "subcode": "AAS0303",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Discrete Structures",
+      "subcode": "ACSE0306",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Logic Design and Computer Architecture",
+      "subcode": "ACSAI0302",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Data Structures",
+      "subcode": "ACSE0301",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Object Oriented Techniques using Java",
+      "subcode": "ACSE0302",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Introduction to Artificial Intelligence",
+      "subcode": "ACSAI0301",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "f04": [
+    {
+      "id": "s1",
+      "name": "Optimization and Numerical Techniques",
+      "subcode": "AAS0404",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+  {
+      "id": "s2",
+      "name": "Technical Communication",
+      "subcode": "AASL0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Introduction to Information Security and Cryptography",
+      "subcode": "ACSAI0403",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Operating Systems",
+      "subcode": "ACSE0403A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Database Management Systems",
+      "subcode": "ACSAI0402",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Theory of Automata & Formal Languages",
+      "subcode": "ACSE0404",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "f05": [
+    {
+      "id": "s1",
+      "name": "Design Thinking-II",
+      "subcode": "ACSE0503",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Design and Analysis of Algorithm",
+      "subcode": "ACSE0501",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Computer Networks",
+      "subcode": "ACSE0502",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Web Technology",
+      "subcode": "ACSE0505",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Data Analytics",
+      "subcode": "ACSAI0512",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Business Intelligence and Data Visualization",
+      "subcode": "ACSAI0519",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s7",
+      "name": "Mobile Application Development",
+      "subcode": "ACSAI0515",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s8",
+      "name": "Development in Swift Fundamentals",
+      "subcode": "ACSAI0521",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s9",
+      "name": "Python Web Development with Django",
+      "subcode": "ACSE0512",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s10",
+      "name": "Design Patterns",
+      "subcode": "ACSE0514",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "f06": [
+    {
+      "id": "s1",
+      "name": "Blockchain Technology and Application Development",
+      "subcode": "ACSAI0601",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Machine Learning",
+      "subcode": "ACSML0601",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Software Engineering",
+      "subcode": "ACSE0603",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Social Media Analytics",
+      "subcode": "ACSAI0622N",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Programming for Data Analytics",
+      "subcode": "ACSAI0617",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Development in Swift Explorations and Data Collection",
+      "subcode": "ACSAI0614",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s7",
+      "name": "Augmented Reality and Virtual Reality",
+      "subcode": "ACSAI0620",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s8",
+      "name": "Web Development using MEAN Stack",
+      "subcode": "ACSE0614",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s9",
+      "name": "Advanced Java Programming",
+      "subcode": "ACSAI0612",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "h01": [
+    {
+      "id": "s1",
+      "name": "Mathematical Foundations-I",
+      "subcode": "BAS0104",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Basic Electrical and Electronics Engineering",
+      "subcode": "BEC0101",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Acquiring Business Communication (ABC)",
+      "subcode": "BASL0101",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Problem Solving using Python",
+      "subcode": "BCSE0151",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "h02": [
+    {
+      "id": "s1",
+      "name": "Mathematical Foundations-II",
+      "subcode": "BAS0204",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Engineering Physics",
+      "subcode": "BAS0201A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Design Thinking-I",
+      "subcode": "BCSE0203",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Advanced Python",
+      "subcode": "BCSE0252",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "h03": [
+    {
+      "id": "s1",
+      "name": "Statistics and Probability",
+      "subcode": "AAS0303",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Discrete Structures",
+      "subcode": "ACSE0306",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Logic Design and Computer Architecture",
+      "subcode": "ACSAI0302",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Data Structures",
+      "subcode": "ACSE0301",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Object Oriented Techniques using Java",
+      "subcode": "ACSE0302",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Foundation of Data Science",
+      "subcode": "ACSDS0301N",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "h04": [
+    {
+      "id": "s1",
+      "name": "Optimization and Numerical Techniques",
+      "subcode": "AAS0404",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Technical Communication",
+      "subcode": "AASL0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Introduction to Artificial Intelligence",
+      "subcode": "ACSAI0401",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Operating Systems",
+      "subcode": "ACSE0403A",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Database Management Systems",
+      "subcode": "ACSAI0402",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Theory of Automata & Formal Languages",
+      "subcode": "ACSE0404",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "h05": [
+    {
+      "id": "s1",
+      "name": "Design Thinking-II",
+      "subcode": "ACSE0503",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Design and Analysis of Algorithm",
+      "subcode": "ACSE0501",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Computer Networks",
+      "subcode": "ACSE0502",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Machine Learning",
+      "subcode": "ACSML0501",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Predictive Analytics",
+      "subcode": "ACSAI0516",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Web Technology",
+      "subcode": "ACSAI0516",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s7",
+      "name": "Mobile Application Development",
+      "subcode": "ACSAI0515",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s8",
+      "name": "Development in Swift Fundamentals",
+      "subcode": "ACSAI0521",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s9",
+      "name": "Python Web Development with Django",
+      "subcode": "ACSE0512",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s10",
+      "name": "Design Patterns",
+      "subcode": "ACSE0514",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ],
+  "h06": [
+    {
+      "id": "s1",
+      "name": "Big Data Analytics",
+      "subcode": "ACSDS0601",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s2",
+      "name": "Business Intelligence and Data Visualization",
+      "subcode": "ACSDS0602",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s3",
+      "name": "Software Engineering",
+      "subcode": "ACSE0603",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s4",
+      "name": "Social Media Analytics",
+      "subcode": "ACSAI0622N",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s5",
+      "name": "Programming for Data Analytics",
+      "subcode": "ACSAI0617",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s6",
+      "name": "Development in Swift Explorations and Data Collection",
+      "subcode": "ACSAI0614",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s7",
+      "name": "Augmented Reality and Virtual Reality",
+      "subcode": "ACSAI0620",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s8",
+      "name": "Web Development using MEAN Stack",
+      "subcode": "ACSE0614",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    },
+    {
+      "id": "s9",
+      "name": "Advanced Java Programming",
+      "subcode": "ACSAI0612",
+      "ppts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pyq": []
+    }
+  ]
 }
